@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://hawkpro-1.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-07-19T09:34:01.429Z</updated>
+    <id>https://engineering.atspotify.com/</id>
+    <title>Spotify Engineering Blog</title>
+    <updated>2021-07-19T09:34:01.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://storage.googleapis.com/rnd-atspotify/sites/2/2021/03/cropped-Engineering-Icon-RGB-512x512-light-120x120.png</icon>
     <entry>
-        <title type="html"><![CDATA[Patrick Balestra: Senior Engineer (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[Patrick Balestra: Senior Engineer]]></title>
         <id>https://engineering.atspotify.com/2021/06/04/patrick-balestra-senior-engineer/</id>
         <link href="https://engineering.atspotify.com/2021/06/04/patrick-balestra-senior-engineer/"/>
         <updated>2021-07-19T09:34:01.254Z</updated>
@@ -35,7 +36,7 @@
                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Achieving Team Purpose and Pride with Scrum (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[Achieving Team Purpose and Pride with Scrum]]></title>
         <id>https://engineering.atspotify.com/2021/05/27/achieving-team-purpose-and-pride-with-scrum/</id>
         <link href="https://engineering.atspotify.com/2021/05/27/achieving-team-purpose-and-pride-with-scrum/"/>
         <updated>2021-07-19T09:34:01.254Z</updated>
@@ -65,7 +66,7 @@
                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Product Story: The Lessons of Backstage and Spotify’s Autonomous Culture (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[A Product Story: The Lessons of Backstage and Spotify’s Autonomous Culture]]></title>
         <id>https://engineering.atspotify.com/2021/05/18/a-product-story-the-lessons-of-backstage-and-spotifys-autonomous-culture/</id>
         <link href="https://engineering.atspotify.com/2021/05/18/a-product-story-the-lessons-of-backstage-and-spotifys-autonomous-culture/"/>
         <updated>2021-07-19T09:34:01.254Z</updated>
@@ -95,7 +96,7 @@
                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spotify Wins CNCF’s Top End User Award and Toots Own Horn About It (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[Spotify Wins CNCF’s Top End User Award and Toots Own Horn About It]]></title>
         <id>https://engineering.atspotify.com/2021/05/11/spotify-wins-cncfs-top-end-user-award-and-toots-own-horn-about-it/</id>
         <link href="https://engineering.atspotify.com/2021/05/11/spotify-wins-cncfs-top-end-user-award-and-toots-own-horn-about-it/"/>
         <updated>2021-07-19T09:34:01.257Z</updated>
@@ -125,7 +126,7 @@
                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Customization vs. Configuration in Evolving Design Systems (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[Customization vs. Configuration in Evolving Design Systems]]></title>
         <id>https://engineering.atspotify.com/2021/04/28/customization-vs-configuration-in-evolving-design-systems/</id>
         <link href="https://engineering.atspotify.com/2021/04/28/customization-vs-configuration-in-evolving-design-systems/"/>
         <updated>2021-07-19T09:34:01.260Z</updated>
@@ -155,7 +156,7 @@
                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nour Daoud Bösing: Security Engineer (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[Nour Daoud Bösing: Security Engineer]]></title>
         <id>https://engineering.atspotify.com/2021/04/26/nour-daoud-bosing-security-engineer/</id>
         <link href="https://engineering.atspotify.com/2021/04/26/nour-daoud-bosing-security-engineer/"/>
         <updated>2021-07-19T09:34:01.272Z</updated>
@@ -185,7 +186,7 @@
                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rethinking Spotify Search (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[Rethinking Spotify Search]]></title>
         <id>https://engineering.atspotify.com/2021/04/15/rethinking-spotify-search/</id>
         <link href="https://engineering.atspotify.com/2021/04/15/rethinking-spotify-search/"/>
         <updated>2021-07-19T09:34:01.280Z</updated>
@@ -215,7 +216,7 @@
                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building the Future of Our Desktop Apps (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[Building the Future of Our Desktop Apps]]></title>
         <id>https://engineering.atspotify.com/2021/04/07/building-the-future-of-our-desktop-apps/</id>
         <link href="https://engineering.atspotify.com/2021/04/07/building-the-future-of-our-desktop-apps/"/>
         <updated>2021-07-19T09:34:01.288Z</updated>
@@ -245,7 +246,7 @@
                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[David Riordan: Product Manager (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[David Riordan: Product Manager]]></title>
         <id>https://engineering.atspotify.com/2021/03/30/my-beat-david-riordan/</id>
         <link href="https://engineering.atspotify.com/2021/03/30/my-beat-david-riordan/"/>
         <updated>2021-07-19T09:34:01.289Z</updated>
@@ -275,7 +276,7 @@
                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why You Should Pair with Non-Engineers (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[Why You Should Pair with Non-Engineers]]></title>
         <id>https://engineering.atspotify.com/2021/03/23/why-you-should-pair-with-non-engineers/</id>
         <link href="https://engineering.atspotify.com/2021/03/23/why-you-should-pair-with-non-engineers/"/>
         <updated>2021-07-19T09:34:01.289Z</updated>
@@ -305,7 +306,7 @@
                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Happy Birthday, Backstage: Spotify’s Biggest Open Source Project Grows Up Fast (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[Happy Birthday, Backstage: Spotify’s Biggest Open Source Project Grows Up Fast]]></title>
         <id>https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/</id>
         <link href="https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/"/>
         <updated>2021-07-19T09:34:01.290Z</updated>
@@ -335,7 +336,7 @@
                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spotify’s New Experimentation Coordination Strategy (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[Spotify’s New Experimentation Coordination Strategy]]></title>
         <id>https://engineering.atspotify.com/2021/03/10/spotifys-new-experimentation-coordination-strategy/</id>
         <link href="https://engineering.atspotify.com/2021/03/10/spotifys-new-experimentation-coordination-strategy/"/>
         <updated>2021-07-19T09:34:01.290Z</updated>
@@ -365,7 +366,7 @@
                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Matt Clarke: Senior Backend Infrastructure Engineer (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[Matt Clarke: Senior Backend Infrastructure Engineer]]></title>
         <id>https://engineering.atspotify.com/2021/03/09/my-beat-matt-clarke/</id>
         <link href="https://engineering.atspotify.com/2021/03/09/my-beat-matt-clarke/"/>
         <updated>2021-07-19T09:34:01.290Z</updated>
@@ -395,7 +396,7 @@
                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2020 Unwrapped: The people behind the numbers (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[2020 Unwrapped: The people behind the numbers]]></title>
         <id>https://engineering.atspotify.com/2021/03/01/2020-unwrapped-the-people-behind-the-numbers/</id>
         <link href="https://engineering.atspotify.com/2021/03/01/2020-unwrapped-the-people-behind-the-numbers/"/>
         <updated>2021-07-19T09:34:01.295Z</updated>
@@ -425,7 +426,7 @@
                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Designing a Better Kubernetes Experience for Developers (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[Designing a Better Kubernetes Experience for Developers]]></title>
         <id>https://engineering.atspotify.com/2021/03/01/designing-a-better-kubernetes-experience-for-developers/</id>
         <link href="https://engineering.atspotify.com/2021/03/01/designing-a-better-kubernetes-experience-for-developers/"/>
         <updated>2021-07-19T09:34:01.295Z</updated>
@@ -455,7 +456,7 @@
                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Spotify Optimized the Largest Dataflow Job Ever for Wrapped 2020 (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[How Spotify Optimized the Largest Dataflow Job Ever for Wrapped 2020]]></title>
         <id>https://engineering.atspotify.com/2021/02/11/how-spotify-optimized-the-largest-dataflow-job-ever-for-wrapped-2020/</id>
         <link href="https://engineering.atspotify.com/2021/02/11/how-spotify-optimized-the-largest-dataflow-job-ever-for-wrapped-2020/"/>
         <updated>2021-07-19T09:34:01.296Z</updated>
@@ -485,7 +486,7 @@
                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introducing XCMetrics: Our All-in-One Tool for Tracking Xcode Build Metrics (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[Introducing XCMetrics: Our All-in-One Tool for Tracking Xcode Build Metrics]]></title>
         <id>https://engineering.atspotify.com/2021/01/20/introducing-xcmetrics-our-all-in-one-tool-for-tracking-xcode-build-metrics/</id>
         <link href="https://engineering.atspotify.com/2021/01/20/introducing-xcmetrics-our-all-in-one-tool-for-tracking-xcode-build-metrics/"/>
         <updated>2021-07-19T09:34:01.296Z</updated>
@@ -515,7 +516,7 @@
                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How We Built It: Spotify Lite, One Year Later (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[How We Built It: Spotify Lite, One Year Later]]></title>
         <id>https://engineering.atspotify.com/2020/12/03/how-we-built-it-spotify-lite-one-year-later/</id>
         <link href="https://engineering.atspotify.com/2020/12/03/how-we-built-it-spotify-lite-one-year-later/"/>
         <updated>2021-07-19T09:34:01.297Z</updated>
@@ -545,7 +546,7 @@
                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It’s All Just Wiggly Air: Building Infrastructure to Support Audio Research (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[It’s All Just Wiggly Air: Building Infrastructure to Support Audio Research]]></title>
         <id>https://engineering.atspotify.com/2020/11/04/its-all-just-wiggly-air-building-infrastructure-to-support-audio-research/</id>
         <link href="https://engineering.atspotify.com/2020/11/04/its-all-just-wiggly-air-building-infrastructure-to-support-audio-research/"/>
         <updated>2021-07-19T09:34:01.297Z</updated>
@@ -575,7 +576,7 @@
                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spotify’s New Experimentation Platform (Part 2) (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[Spotify’s New Experimentation Platform (Part 2)]]></title>
         <id>https://engineering.atspotify.com/2020/11/02/spotifys-new-experimentation-platform-part-2/</id>
         <link href="https://engineering.atspotify.com/2020/11/02/spotifys-new-experimentation-platform-part-2/"/>
         <updated>2021-07-19T09:34:01.297Z</updated>
@@ -605,7 +606,7 @@
                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spotify’s New Experimentation Platform (Part 1) (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[Spotify’s New Experimentation Platform (Part 1)]]></title>
         <id>https://engineering.atspotify.com/2020/10/29/spotifys-new-experimentation-platform-part-1/</id>
         <link href="https://engineering.atspotify.com/2020/10/29/spotifys-new-experimentation-platform-part-1/"/>
         <updated>2021-07-19T09:34:01.300Z</updated>
@@ -635,7 +636,7 @@
                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Managing Clouds from the Ground Up: Cost Engineering at Spotify (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[Managing Clouds from the Ground Up: Cost Engineering at Spotify]]></title>
         <id>https://engineering.atspotify.com/2020/09/29/managing-clouds-from-the-ground-up-cost-engineering-at-spotify/</id>
         <link href="https://engineering.atspotify.com/2020/09/29/managing-clouds-from-the-ground-up-cost-engineering-at-spotify/"/>
         <updated>2021-07-19T09:34:01.301Z</updated>
@@ -665,7 +666,7 @@
                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud Native Computing Foundation Accepts Backstage as a Sandbox Project (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[Cloud Native Computing Foundation Accepts Backstage as a Sandbox Project]]></title>
         <id>https://engineering.atspotify.com/2020/09/24/cloud-native-computing-foundation-accepts-backstage-as-a-sandbox-project/</id>
         <link href="https://engineering.atspotify.com/2020/09/24/cloud-native-computing-foundation-accepts-backstage-as-a-sandbox-project/"/>
         <updated>2021-07-19T09:34:01.304Z</updated>
@@ -695,7 +696,7 @@
                             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spotify Unwrapped 2019: How We Built an In-App Experience Just for You (Spotify Engineering Blog)]]></title>
+        <title type="html"><![CDATA[Spotify Unwrapped 2019: How We Built an In-App Experience Just for You]]></title>
         <id>https://engineering.atspotify.com/2020/09/21/spotify-unwrapped-2019-how-we-built-an-in-app-experience-just-for-you/</id>
         <link href="https://engineering.atspotify.com/2020/09/21/spotify-unwrapped-2019-how-we-built-an-in-app-experience-just-for-you/"/>
         <updated>2021-07-19T09:34:01.304Z</updated>
