@@ -1,13 +1,10 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
+[default]
+timeout = 120
 
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
+
+[spotify]
+title = "Spotify Engineering Blog"
+url = "https://engineering.atspotify.com/"
+entrySelector = "li.post article"
 titleSelector = "h2"
 linkSelector = "h2 a"
