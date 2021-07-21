@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://engineering.atspotify.com/</id>
-    <title>Spotify Engineering Blog</title>
-    <updated>2021-07-21T11:09:28.088Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://storage.googleapis.com/rnd-atspotify/sites/2/2021/03/cropped-Engineering-Icon-RGB-512x512-light-120x120.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Patrick Balestra: Senior Engineer]]></title>
-        <id>https://engineering.atspotify.com/2021/06/04/patrick-balestra-senior-engineer/</id>
-        <link href="https://engineering.atspotify.com/2021/06/04/patrick-balestra-senior-engineer/"/>
-        <updated>2021-07-19T09:34:01.254Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Spotify Engineering Blog</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 21 Jul 2021 11:10:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Patrick Balestra: Senior Engineer]]></title>
+            <link>https://engineering.atspotify.com/2021/06/04/patrick-balestra-senior-engineer/</link>
+            <guid>https://engineering.atspotify.com/2021/06/04/patrick-balestra-senior-engineer/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -33,14 +35,15 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/my-beat/" alt="View all posts in My Beat" class="info-btn">My Beat</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Achieving Team Purpose and Pride with Scrum]]></title>
-        <id>https://engineering.atspotify.com/2021/05/27/achieving-team-purpose-and-pride-with-scrum/</id>
-        <link href="https://engineering.atspotify.com/2021/05/27/achieving-team-purpose-and-pride-with-scrum/"/>
-        <updated>2021-07-19T09:34:01.254Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/06/Patrick-Balestra_Header-Image.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Achieving Team Purpose and Pride with Scrum]]></title>
+            <link>https://engineering.atspotify.com/2021/05/27/achieving-team-purpose-and-pride-with-scrum/</link>
+            <guid>https://engineering.atspotify.com/2021/05/27/achieving-team-purpose-and-pride-with-scrum/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -63,14 +66,15 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/developer-tools/" alt="View all posts in Developer Tools" class="info-btn">Developer Tools</a></li> <li><a href="https://engineering.atspotify.com/category/people/" alt="View all posts in People" class="info-btn">People</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Product Story: The Lessons of Backstage and Spotify’s Autonomous Culture]]></title>
-        <id>https://engineering.atspotify.com/2021/05/18/a-product-story-the-lessons-of-backstage-and-spotifys-autonomous-culture/</id>
-        <link href="https://engineering.atspotify.com/2021/05/18/a-product-story-the-lessons-of-backstage-and-spotifys-autonomous-culture/"/>
-        <updated>2021-07-19T09:34:01.254Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/05/Scrum-Post_Header.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[A Product Story: The Lessons of Backstage and Spotify’s Autonomous Culture]]></title>
+            <link>https://engineering.atspotify.com/2021/05/18/a-product-story-the-lessons-of-backstage-and-spotifys-autonomous-culture/</link>
+            <guid>https://engineering.atspotify.com/2021/05/18/a-product-story-the-lessons-of-backstage-and-spotifys-autonomous-culture/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -93,14 +97,15 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/backstage/" alt="View all posts in Backstage" class="info-btn">Backstage</a></li> <li><a href="https://engineering.atspotify.com/category/infrastructure/" alt="View all posts in Infrastructure" class="info-btn">Infrastructure</a></li> <li><a href="https://engineering.atspotify.com/category/open-source/" alt="View all posts in Open Source" class="info-btn">Open Source</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify Wins CNCF’s Top End User Award and Toots Own Horn About It]]></title>
-        <id>https://engineering.atspotify.com/2021/05/11/spotify-wins-cncfs-top-end-user-award-and-toots-own-horn-about-it/</id>
-        <link href="https://engineering.atspotify.com/2021/05/11/spotify-wins-cncfs-top-end-user-award-and-toots-own-horn-about-it/"/>
-        <updated>2021-07-19T09:34:01.257Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/05/a-product-story-backstage-1.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Spotify Wins CNCF’s Top End User Award and Toots Own Horn About It]]></title>
+            <link>https://engineering.atspotify.com/2021/05/11/spotify-wins-cncfs-top-end-user-award-and-toots-own-horn-about-it/</link>
+            <guid>https://engineering.atspotify.com/2021/05/11/spotify-wins-cncfs-top-end-user-award-and-toots-own-horn-about-it/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -123,14 +128,15 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/backstage/" alt="View all posts in Backstage" class="info-btn">Backstage</a></li> <li><a href="https://engineering.atspotify.com/category/developer-tools/" alt="View all posts in Developer Tools" class="info-btn">Developer Tools</a></li> <li><a href="https://engineering.atspotify.com/category/infrastructure/" alt="View all posts in Infrastructure" class="info-btn">Infrastructure</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Customization vs. Configuration in Evolving Design Systems]]></title>
-        <id>https://engineering.atspotify.com/2021/04/28/customization-vs-configuration-in-evolving-design-systems/</id>
-        <link href="https://engineering.atspotify.com/2021/04/28/customization-vs-configuration-in-evolving-design-systems/"/>
-        <updated>2021-07-19T09:34:01.260Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/05/spotify-wins-cncf-end-user-award-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Customization vs. Configuration in Evolving Design Systems]]></title>
+            <link>https://engineering.atspotify.com/2021/04/28/customization-vs-configuration-in-evolving-design-systems/</link>
+            <guid>https://engineering.atspotify.com/2021/04/28/customization-vs-configuration-in-evolving-design-systems/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -153,14 +159,15 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/design/" alt="View all posts in Design" class="info-btn">Design</a></li> <li><a href="https://engineering.atspotify.com/category/developer-tools/" alt="View all posts in Developer Tools" class="info-btn">Developer Tools</a></li> <li><a href="https://engineering.atspotify.com/category/web/" alt="View all posts in Web" class="info-btn">Web</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nour Daoud Bösing: Security Engineer]]></title>
-        <id>https://engineering.atspotify.com/2021/04/26/nour-daoud-bosing-security-engineer/</id>
-        <link href="https://engineering.atspotify.com/2021/04/26/nour-daoud-bosing-security-engineer/"/>
-        <updated>2021-07-19T09:34:01.272Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/04/image3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Nour Daoud Bösing: Security Engineer]]></title>
+            <link>https://engineering.atspotify.com/2021/04/26/nour-daoud-bosing-security-engineer/</link>
+            <guid>https://engineering.atspotify.com/2021/04/26/nour-daoud-bosing-security-engineer/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -183,14 +190,15 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/my-beat/" alt="View all posts in My Beat" class="info-btn">My Beat</a></li> <li><a href="https://engineering.atspotify.com/category/people/" alt="View all posts in People" class="info-btn">People</a></li> <li><a href="https://engineering.atspotify.com/category/security/" alt="View all posts in Security" class="info-btn">Security</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking Spotify Search]]></title>
-        <id>https://engineering.atspotify.com/2021/04/15/rethinking-spotify-search/</id>
-        <link href="https://engineering.atspotify.com/2021/04/15/rethinking-spotify-search/"/>
-        <updated>2021-07-19T09:34:01.280Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/04/Nour-edit-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Rethinking Spotify Search]]></title>
+            <link>https://engineering.atspotify.com/2021/04/15/rethinking-spotify-search/</link>
+            <guid>https://engineering.atspotify.com/2021/04/15/rethinking-spotify-search/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -213,14 +221,15 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/developer-tools/" alt="View all posts in Developer Tools" class="info-btn">Developer Tools</a></li> <li><a href="https://engineering.atspotify.com/category/people/" alt="View all posts in People" class="info-btn">People</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building the Future of Our Desktop Apps]]></title>
-        <id>https://engineering.atspotify.com/2021/04/07/building-the-future-of-our-desktop-apps/</id>
-        <link href="https://engineering.atspotify.com/2021/04/07/building-the-future-of-our-desktop-apps/"/>
-        <updated>2021-07-19T09:34:01.288Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/04/Search-gif.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Building the Future of Our Desktop Apps]]></title>
+            <link>https://engineering.atspotify.com/2021/04/07/building-the-future-of-our-desktop-apps/</link>
+            <guid>https://engineering.atspotify.com/2021/04/07/building-the-future-of-our-desktop-apps/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -243,14 +252,15 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/developer-tools/" alt="View all posts in Developer Tools" class="info-btn">Developer Tools</a></li> <li><a href="https://engineering.atspotify.com/category/web/" alt="View all posts in Web" class="info-btn">Web</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[David Riordan: Product Manager]]></title>
-        <id>https://engineering.atspotify.com/2021/03/30/my-beat-david-riordan/</id>
-        <link href="https://engineering.atspotify.com/2021/03/30/my-beat-david-riordan/"/>
-        <updated>2021-07-19T09:34:01.289Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/04/ClientX.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[David Riordan: Product Manager]]></title>
+            <link>https://engineering.atspotify.com/2021/03/30/my-beat-david-riordan/</link>
+            <guid>https://engineering.atspotify.com/2021/03/30/my-beat-david-riordan/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -273,14 +283,15 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/my-beat/" alt="View all posts in My Beat" class="info-btn">My Beat</a></li> <li><a href="https://engineering.atspotify.com/category/people/" alt="View all posts in People" class="info-btn">People</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Pair with Non-Engineers]]></title>
-        <id>https://engineering.atspotify.com/2021/03/23/why-you-should-pair-with-non-engineers/</id>
-        <link href="https://engineering.atspotify.com/2021/03/23/why-you-should-pair-with-non-engineers/"/>
-        <updated>2021-07-19T09:34:01.289Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2020/11/MyBeat_David-Riordan.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Why You Should Pair with Non-Engineers]]></title>
+            <link>https://engineering.atspotify.com/2021/03/23/why-you-should-pair-with-non-engineers/</link>
+            <guid>https://engineering.atspotify.com/2021/03/23/why-you-should-pair-with-non-engineers/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -303,14 +314,15 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/people/" alt="View all posts in People" class="info-btn">People</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Birthday, Backstage: Spotify’s Biggest Open Source Project Grows Up Fast]]></title>
-        <id>https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/</id>
-        <link href="https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/"/>
-        <updated>2021-07-19T09:34:01.290Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/03/Pairing_02.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Happy Birthday, Backstage: Spotify’s Biggest Open Source Project Grows Up Fast]]></title>
+            <link>https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/</link>
+            <guid>https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -333,14 +345,15 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/backstage/" alt="View all posts in Backstage" class="info-btn">Backstage</a></li> <li><a href="https://engineering.atspotify.com/category/developer-tools/" alt="View all posts in Developer Tools" class="info-btn">Developer Tools</a></li> <li><a href="https://engineering.atspotify.com/category/infrastructure/" alt="View all posts in Infrastructure" class="info-btn">Infrastructure</a></li> <li><a href="https://engineering.atspotify.com/category/open-source/" alt="View all posts in Open Source" class="info-btn">Open Source</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify’s New Experimentation Coordination Strategy]]></title>
-        <id>https://engineering.atspotify.com/2021/03/10/spotifys-new-experimentation-coordination-strategy/</id>
-        <link href="https://engineering.atspotify.com/2021/03/10/spotifys-new-experimentation-coordination-strategy/"/>
-        <updated>2021-07-19T09:34:01.290Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/03/Backstage-BDay-Blog_v002.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Spotify’s New Experimentation Coordination Strategy]]></title>
+            <link>https://engineering.atspotify.com/2021/03/10/spotifys-new-experimentation-coordination-strategy/</link>
+            <guid>https://engineering.atspotify.com/2021/03/10/spotifys-new-experimentation-coordination-strategy/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -363,14 +376,15 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/data/" alt="View all posts in Data" class="info-btn">Data</a></li> <li><a href="https://engineering.atspotify.com/category/data-science/" alt="View all posts in Data Science" class="info-btn">Data Science</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matt Clarke: Senior Backend Infrastructure Engineer]]></title>
-        <id>https://engineering.atspotify.com/2021/03/09/my-beat-matt-clarke/</id>
-        <link href="https://engineering.atspotify.com/2021/03/09/my-beat-matt-clarke/"/>
-        <updated>2021-07-19T09:34:01.290Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/03/Bucket-Reuse_01-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Matt Clarke: Senior Backend Infrastructure Engineer]]></title>
+            <link>https://engineering.atspotify.com/2021/03/09/my-beat-matt-clarke/</link>
+            <guid>https://engineering.atspotify.com/2021/03/09/my-beat-matt-clarke/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -393,14 +407,15 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/my-beat/" alt="View all posts in My Beat" class="info-btn">My Beat</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020 Unwrapped: The people behind the numbers]]></title>
-        <id>https://engineering.atspotify.com/2021/03/01/2020-unwrapped-the-people-behind-the-numbers/</id>
-        <link href="https://engineering.atspotify.com/2021/03/01/2020-unwrapped-the-people-behind-the-numbers/"/>
-        <updated>2021-07-19T09:34:01.295Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/02/Matt-Clarke-edit.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2020 Unwrapped: The people behind the numbers]]></title>
+            <link>https://engineering.atspotify.com/2021/03/01/2020-unwrapped-the-people-behind-the-numbers/</link>
+            <guid>https://engineering.atspotify.com/2021/03/01/2020-unwrapped-the-people-behind-the-numbers/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -423,14 +438,15 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/people/" alt="View all posts in People" class="info-btn">People</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing a Better Kubernetes Experience for Developers]]></title>
-        <id>https://engineering.atspotify.com/2021/03/01/designing-a-better-kubernetes-experience-for-developers/</id>
-        <link href="https://engineering.atspotify.com/2021/03/01/designing-a-better-kubernetes-experience-for-developers/"/>
-        <updated>2021-07-19T09:34:01.295Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/03/2020-Wrapped.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Designing a Better Kubernetes Experience for Developers]]></title>
+            <link>https://engineering.atspotify.com/2021/03/01/designing-a-better-kubernetes-experience-for-developers/</link>
+            <guid>https://engineering.atspotify.com/2021/03/01/designing-a-better-kubernetes-experience-for-developers/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -453,14 +469,15 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/backstage/" alt="View all posts in Backstage" class="info-btn">Backstage</a></li> <li><a href="https://engineering.atspotify.com/category/developer-tools/" alt="View all posts in Developer Tools" class="info-btn">Developer Tools</a></li> <li><a href="https://engineering.atspotify.com/category/infrastructure/" alt="View all posts in Infrastructure" class="info-btn">Infrastructure</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Spotify Optimized the Largest Dataflow Job Ever for Wrapped 2020]]></title>
-        <id>https://engineering.atspotify.com/2021/02/11/how-spotify-optimized-the-largest-dataflow-job-ever-for-wrapped-2020/</id>
-        <link href="https://engineering.atspotify.com/2021/02/11/how-spotify-optimized-the-largest-dataflow-job-ever-for-wrapped-2020/"/>
-        <updated>2021-07-19T09:34:01.296Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/03/image3.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[How Spotify Optimized the Largest Dataflow Job Ever for Wrapped 2020]]></title>
+            <link>https://engineering.atspotify.com/2021/02/11/how-spotify-optimized-the-largest-dataflow-job-ever-for-wrapped-2020/</link>
+            <guid>https://engineering.atspotify.com/2021/02/11/how-spotify-optimized-the-largest-dataflow-job-ever-for-wrapped-2020/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -483,14 +500,15 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/data/" alt="View all posts in Data" class="info-btn">Data</a></li> <li><a href="https://engineering.atspotify.com/category/developer-tools/" alt="View all posts in Developer Tools" class="info-btn">Developer Tools</a></li> <li><a href="https://engineering.atspotify.com/category/infrastructure/" alt="View all posts in Infrastructure" class="info-btn">Infrastructure</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing XCMetrics: Our All-in-One Tool for Tracking Xcode Build Metrics]]></title>
-        <id>https://engineering.atspotify.com/2021/01/20/introducing-xcmetrics-our-all-in-one-tool-for-tracking-xcode-build-metrics/</id>
-        <link href="https://engineering.atspotify.com/2021/01/20/introducing-xcmetrics-our-all-in-one-tool-for-tracking-xcode-build-metrics/"/>
-        <updated>2021-07-19T09:34:01.296Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/02/image1.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Introducing XCMetrics: Our All-in-One Tool for Tracking Xcode Build Metrics]]></title>
+            <link>https://engineering.atspotify.com/2021/01/20/introducing-xcmetrics-our-all-in-one-tool-for-tracking-xcode-build-metrics/</link>
+            <guid>https://engineering.atspotify.com/2021/01/20/introducing-xcmetrics-our-all-in-one-tool-for-tracking-xcode-build-metrics/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -513,14 +531,15 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/developer-tools/" alt="View all posts in Developer Tools" class="info-btn">Developer Tools</a></li> <li><a href="https://engineering.atspotify.com/category/open-source/" alt="View all posts in Open Source" class="info-btn">Open Source</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How We Built It: Spotify Lite, One Year Later]]></title>
-        <id>https://engineering.atspotify.com/2020/12/03/how-we-built-it-spotify-lite-one-year-later/</id>
-        <link href="https://engineering.atspotify.com/2020/12/03/how-we-built-it-spotify-lite-one-year-later/"/>
-        <updated>2021-07-19T09:34:01.297Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/01/xcmetrics-open-source-xcode-tool-1.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[How We Built It: Spotify Lite, One Year Later]]></title>
+            <link>https://engineering.atspotify.com/2020/12/03/how-we-built-it-spotify-lite-one-year-later/</link>
+            <guid>https://engineering.atspotify.com/2020/12/03/how-we-built-it-spotify-lite-one-year-later/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -543,14 +562,15 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/mobile/" alt="View all posts in Mobile" class="info-btn">Mobile</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s All Just Wiggly Air: Building Infrastructure to Support Audio Research]]></title>
-        <id>https://engineering.atspotify.com/2020/11/04/its-all-just-wiggly-air-building-infrastructure-to-support-audio-research/</id>
-        <link href="https://engineering.atspotify.com/2020/11/04/its-all-just-wiggly-air-building-infrastructure-to-support-audio-research/"/>
-        <updated>2021-07-19T09:34:01.297Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2020/12/Spotify-Lite_B.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[It’s All Just Wiggly Air: Building Infrastructure to Support Audio Research]]></title>
+            <link>https://engineering.atspotify.com/2020/11/04/its-all-just-wiggly-air-building-infrastructure-to-support-audio-research/</link>
+            <guid>https://engineering.atspotify.com/2020/11/04/its-all-just-wiggly-air-building-infrastructure-to-support-audio-research/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -573,14 +593,15 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/data/" alt="View all posts in Data" class="info-btn">Data</a></li> <li><a href="https://engineering.atspotify.com/category/data-science/" alt="View all posts in Data Science" class="info-btn">Data Science</a></li> <li><a href="https://engineering.atspotify.com/category/maching-learning/" alt="View all posts in Machine Learning" class="info-btn">Machine Learning</a></li> <li><a href="https://engineering.atspotify.com/category/open-source/" alt="View all posts in Open Source" class="info-btn">Open Source</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify’s New Experimentation Platform (Part 2)]]></title>
-        <id>https://engineering.atspotify.com/2020/11/02/spotifys-new-experimentation-platform-part-2/</id>
-        <link href="https://engineering.atspotify.com/2020/11/02/spotifys-new-experimentation-platform-part-2/"/>
-        <updated>2021-07-19T09:34:01.297Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2020/10/Klio-Blog2.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Spotify’s New Experimentation Platform (Part 2)]]></title>
+            <link>https://engineering.atspotify.com/2020/11/02/spotifys-new-experimentation-platform-part-2/</link>
+            <guid>https://engineering.atspotify.com/2020/11/02/spotifys-new-experimentation-platform-part-2/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -603,14 +624,15 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/data/" alt="View all posts in Data" class="info-btn">Data</a></li> <li><a href="https://engineering.atspotify.com/category/data-science/" alt="View all posts in Data Science" class="info-btn">Data Science</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify’s New Experimentation Platform (Part 1)]]></title>
-        <id>https://engineering.atspotify.com/2020/10/29/spotifys-new-experimentation-platform-part-1/</id>
-        <link href="https://engineering.atspotify.com/2020/10/29/spotifys-new-experimentation-platform-part-1/"/>
-        <updated>2021-07-19T09:34:01.300Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2020/11/Experimentation-Platform_Part-II_A.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Spotify’s New Experimentation Platform (Part 1)]]></title>
+            <link>https://engineering.atspotify.com/2020/10/29/spotifys-new-experimentation-platform-part-1/</link>
+            <guid>https://engineering.atspotify.com/2020/10/29/spotifys-new-experimentation-platform-part-1/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -633,14 +655,15 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/data/" alt="View all posts in Data" class="info-btn">Data</a></li> <li><a href="https://engineering.atspotify.com/category/data-science/" alt="View all posts in Data Science" class="info-btn">Data Science</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Managing Clouds from the Ground Up: Cost Engineering at Spotify]]></title>
-        <id>https://engineering.atspotify.com/2020/09/29/managing-clouds-from-the-ground-up-cost-engineering-at-spotify/</id>
-        <link href="https://engineering.atspotify.com/2020/09/29/managing-clouds-from-the-ground-up-cost-engineering-at-spotify/"/>
-        <updated>2021-07-19T09:34:01.301Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2020/10/Experimentation-Platform_01.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Managing Clouds from the Ground Up: Cost Engineering at Spotify]]></title>
+            <link>https://engineering.atspotify.com/2020/09/29/managing-clouds-from-the-ground-up-cost-engineering-at-spotify/</link>
+            <guid>https://engineering.atspotify.com/2020/09/29/managing-clouds-from-the-ground-up-cost-engineering-at-spotify/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -663,14 +686,15 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/backstage/" alt="View all posts in Backstage" class="info-btn">Backstage</a></li> <li><a href="https://engineering.atspotify.com/category/developer-tools/" alt="View all posts in Developer Tools" class="info-btn">Developer Tools</a></li> <li><a href="https://engineering.atspotify.com/category/open-source/" alt="View all posts in Open Source" class="info-btn">Open Source</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud Native Computing Foundation Accepts Backstage as a Sandbox Project]]></title>
-        <id>https://engineering.atspotify.com/2020/09/24/cloud-native-computing-foundation-accepts-backstage-as-a-sandbox-project/</id>
-        <link href="https://engineering.atspotify.com/2020/09/24/cloud-native-computing-foundation-accepts-backstage-as-a-sandbox-project/"/>
-        <updated>2021-07-19T09:34:01.304Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2020/09/Cost-Engineering_01C-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Cloud Native Computing Foundation Accepts Backstage as a Sandbox Project]]></title>
+            <link>https://engineering.atspotify.com/2020/09/24/cloud-native-computing-foundation-accepts-backstage-as-a-sandbox-project/</link>
+            <guid>https://engineering.atspotify.com/2020/09/24/cloud-native-computing-foundation-accepts-backstage-as-a-sandbox-project/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -693,14 +717,15 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/developer-tools/" alt="View all posts in Developer Tools" class="info-btn">Developer Tools</a></li> <li><a href="https://engineering.atspotify.com/category/infrastructure/" alt="View all posts in Infrastructure" class="info-btn">Infrastructure</a></li> <li><a href="https://engineering.atspotify.com/category/open-source/" alt="View all posts in Open Source" class="info-btn">Open Source</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify Unwrapped 2019: How We Built an In-App Experience Just for You]]></title>
-        <id>https://engineering.atspotify.com/2020/09/21/spotify-unwrapped-2019-how-we-built-an-in-app-experience-just-for-you/</id>
-        <link href="https://engineering.atspotify.com/2020/09/21/spotify-unwrapped-2019-how-we-built-an-in-app-experience-just-for-you/"/>
-        <updated>2021-07-19T09:34:01.304Z</updated>
-        <content type="html"><![CDATA[<div class="post-holder">
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2020/09/Cloud-native-computing-foundation-accepts-Backstage.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Spotify Unwrapped 2019: How We Built an In-App Experience Just for You]]></title>
+            <link>https://engineering.atspotify.com/2020/09/21/spotify-unwrapped-2019-how-we-built-an-in-app-experience-just-for-you/</link>
+            <guid>https://engineering.atspotify.com/2020/09/21/spotify-unwrapped-2019-how-we-built-an-in-app-experience-just-for-you/</guid>
+            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
                                 <div class="upper-part">
 
                                     <div class="image-holder">
@@ -723,6 +748,8 @@
                                 </div>
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/infrastructure/" alt="View all posts in Infrastructure" class="info-btn">Infrastructure</a></li>                                </ul>
-                            </div>]]></content>
-    </entry>
-</feed>
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2020/09/wrapped.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
