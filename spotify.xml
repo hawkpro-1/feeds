@@ -4,7 +4,7 @@
         <title>Spotify Engineering Blog</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Aug 2021 05:33:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 05:33:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -18,7 +18,7 @@
                                     <div class="image-holder">
                                         <!-- post thumbnail -->
                                                                                     <a href="https://engineering.atspotify.com/2021/08/04/four-lessons-we-learned-from-creating-spotifys-desktop-app/" title="Four Lessons We Learned from Creating Spotify’s Desktop App">
-                                                <img src="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/08/A-Product-Story_Episode_01.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image wp-stateless-item" alt="" loading="lazy" srcset="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/08/A-Product-Story_Episode_01.png 1201w, https://storage.googleapis.com/rnd-atspotify/sites/2/2021/08/A-Product-Story_Episode_01-250x141.png 250w, https://storage.googleapis.com/rnd-atspotify/sites/2/2021/08/A-Product-Story_Episode_01-700x394.png 700w, https://storage.googleapis.com/rnd-atspotify/sites/2/2021/08/A-Product-Story_Episode_01-768x432.png 768w, https://storage.googleapis.com/rnd-atspotify/sites/2/2021/08/A-Product-Story_Episode_01-120x68.png 120w" sizes="(max-width: 1201px) 100vw, 1201px" data-image-size="post-thumbnail" data-stateless-media-bucket="rnd-atspotify" data-stateless-media-name="sites/2/2021/08/A-Product-Story_Episode_01.png">                                            </a>
+                                                <img src="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/08/A-Product-Story_01-Illustration_1200x630-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image wp-stateless-item" alt="" loading="lazy" srcset="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/08/A-Product-Story_01-Illustration_1200x630-1.png 1201w, https://storage.googleapis.com/rnd-atspotify/sites/2/2021/08/A-Product-Story_01-Illustration_1200x630-1-250x131.png 250w, https://storage.googleapis.com/rnd-atspotify/sites/2/2021/08/A-Product-Story_01-Illustration_1200x630-1-700x368.png 700w, https://storage.googleapis.com/rnd-atspotify/sites/2/2021/08/A-Product-Story_01-Illustration_1200x630-1-768x404.png 768w, https://storage.googleapis.com/rnd-atspotify/sites/2/2021/08/A-Product-Story_01-Illustration_1200x630-1-120x63.png 120w" sizes="(max-width: 1201px) 100vw, 1201px" data-image-size="post-thumbnail" data-stateless-media-bucket="rnd-atspotify" data-stateless-media-name="sites/2/2021/08/A-Product-Story_01-Illustration_1200x630-1.png">                                            </a>
                                                                                 <!-- /post thumbnail -->
 
                                     </div>
@@ -36,7 +36,7 @@
                                 <ul class="btn-list">
                                     <li><a href="https://engineering.atspotify.com/category/people/" alt="View all posts in People" class="info-btn">People</a></li> <li><a href="https://engineering.atspotify.com/category/product/" alt="View all posts in Product" class="info-btn">Product</a></li> <li><a href="https://engineering.atspotify.com/category/web/" alt="View all posts in Web" class="info-btn">Web</a></li>                                </ul>
                             </div>]]></content:encoded>
-            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/08/A-Product-Story_Episode_01.png" length="0" type="image/png"/>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/08/A-Product-Story_01-Illustration_1200x630-1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Patrick Balestra: Senior Engineer]]></title>
