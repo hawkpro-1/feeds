@@ -4,9 +4,40 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Sep 2021 05:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 17:40:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Introducing Pedalboard: Spotify’s Audio Effects Library for Python (Spotify Engineering Blog)]]></title>
+            <link>https://engineering.atspotify.com/2021/09/07/introducing-pedalboard-spotifys-audio-effects-library-for-python/</link>
+            <guid>https://engineering.atspotify.com/2021/09/07/introducing-pedalboard-spotifys-audio-effects-library-for-python/</guid>
+            <pubDate>Tue, 07 Sep 2021 17:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="post-holder">
+                                <div class="upper-part">
+
+                                    <div class="image-holder">
+                                        <!-- post thumbnail -->
+                                                                                    <a href="https://engineering.atspotify.com/2021/09/07/introducing-pedalboard-spotifys-audio-effects-library-for-python/" title="Introducing Pedalboard: Spotify’s Audio Effects Library for Python">
+                                                <img src="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/09/Pedalboard_header.gif" class="attachment-post-thumbnail size-post-thumbnail wp-post-image wp-stateless-item" alt="" loading="lazy" data-image-size="post-thumbnail" data-stateless-media-bucket="rnd-atspotify" data-stateless-media-name="sites/2/2021/09/Pedalboard_header.gif">                                            </a>
+                                                                                <!-- /post thumbnail -->
+
+                                    </div>
+
+                                    <div class="info">
+
+                                        <span class="date">September 7, 2021</span>
+                                        <!-- post title -->
+                                        <h2>
+                                            <a href="https://engineering.atspotify.com/2021/09/07/introducing-pedalboard-spotifys-audio-effects-library-for-python/" title="Introducing Pedalboard: Spotify’s Audio Effects Library for Python">Introducing Pedalboard: Spotify’s Audio Effects Library for Python</a>
+                                        </h2>
+                                        <!-- /post title -->
+                                        <p>We’ve just open sourced Pedalboard, Spotify’s framework for adding effects to audio in Python. Pedalboard makes it easy to use [...]</p>                                    </div>
+                                </div>
+                                <ul class="btn-list">
+                                    <li><a href="https://engineering.atspotify.com/category/developer-tools/" alt="View all posts in Developer Tools" class="info-btn">Developer Tools</a></li> <li><a href="https://engineering.atspotify.com/category/maching-learning/" alt="View all posts in Machine Learning" class="info-btn">Machine Learning</a></li> <li><a href="https://engineering.atspotify.com/category/open-source/" alt="View all posts in Open Source" class="info-btn">Open Source</a></li> <li><a href="https://engineering.atspotify.com/category/product/" alt="View all posts in Product" class="info-btn">Product</a></li>                                </ul>
+                            </div>]]></content:encoded>
+            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2021/09/Pedalboard_header.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[Four Lessons We Learned from Creating Spotify’s Desktop App (Spotify Engineering Blog)]]></title>
             <link>https://engineering.atspotify.com/2021/08/04/four-lessons-we-learned-from-creating-spotifys-desktop-app/</link>
@@ -719,37 +750,6 @@
                                     <li><a href="https://engineering.atspotify.com/category/backstage/" alt="View all posts in Backstage" class="info-btn">Backstage</a></li> <li><a href="https://engineering.atspotify.com/category/developer-tools/" alt="View all posts in Developer Tools" class="info-btn">Developer Tools</a></li> <li><a href="https://engineering.atspotify.com/category/open-source/" alt="View all posts in Open Source" class="info-btn">Open Source</a></li>                                </ul>
                             </div>]]></content:encoded>
             <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2020/09/Cost-Engineering_01C-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Cloud Native Computing Foundation Accepts Backstage as a Sandbox Project (Spotify Engineering Blog)]]></title>
-            <link>https://engineering.atspotify.com/2020/09/24/cloud-native-computing-foundation-accepts-backstage-as-a-sandbox-project/</link>
-            <guid>https://engineering.atspotify.com/2020/09/24/cloud-native-computing-foundation-accepts-backstage-as-a-sandbox-project/</guid>
-            <pubDate>Mon, 19 Jul 2021 09:34:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="post-holder">
-                                <div class="upper-part">
-
-                                    <div class="image-holder">
-                                        <!-- post thumbnail -->
-                                                                                    <a href="https://engineering.atspotify.com/2020/09/24/cloud-native-computing-foundation-accepts-backstage-as-a-sandbox-project/" title="Cloud Native Computing Foundation Accepts Backstage as a Sandbox Project">
-                                                <img src="https://storage.googleapis.com/rnd-atspotify/sites/2/2020/09/Cloud-native-computing-foundation-accepts-Backstage.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image wp-stateless-item" alt="Cloud Native Computing Foundation Accepts Backstage" loading="lazy" srcset="https://storage.googleapis.com/rnd-atspotify/sites/2/2020/09/Cloud-native-computing-foundation-accepts-Backstage.png 753w, https://storage.googleapis.com/rnd-atspotify/sites/2/2020/09/Cloud-native-computing-foundation-accepts-Backstage-250x121.png 250w, https://storage.googleapis.com/rnd-atspotify/sites/2/2020/09/Cloud-native-computing-foundation-accepts-Backstage-700x337.png 700w, https://storage.googleapis.com/rnd-atspotify/sites/2/2020/09/Cloud-native-computing-foundation-accepts-Backstage-120x58.png 120w" sizes="(max-width: 753px) 100vw, 753px" data-image-size="post-thumbnail" data-stateless-media-bucket="rnd-atspotify" data-stateless-media-name="sites/2/2020/09/Cloud-native-computing-foundation-accepts-Backstage.png">                                            </a>
-                                                                                <!-- /post thumbnail -->
-
-                                    </div>
-
-                                    <div class="info">
-
-                                        <span class="date">September 24, 2020</span>
-                                        <!-- post title -->
-                                        <h2>
-                                            <a href="https://engineering.atspotify.com/2020/09/24/cloud-native-computing-foundation-accepts-backstage-as-a-sandbox-project/" title="Cloud Native Computing Foundation Accepts Backstage as a Sandbox Project">Cloud Native Computing Foundation Accepts Backstage as a Sandbox Project</a>
-                                        </h2>
-                                        <!-- /post title -->
-                                        <p>If you hear faint whooping in the background of your playlists today, it’s just us celebrating a new milestone for [...]</p>                                    </div>
-                                </div>
-                                <ul class="btn-list">
-                                    <li><a href="https://engineering.atspotify.com/category/developer-tools/" alt="View all posts in Developer Tools" class="info-btn">Developer Tools</a></li> <li><a href="https://engineering.atspotify.com/category/infrastructure/" alt="View all posts in Infrastructure" class="info-btn">Infrastructure</a></li> <li><a href="https://engineering.atspotify.com/category/open-source/" alt="View all posts in Open Source" class="info-btn">Open Source</a></li>                                </ul>
-                            </div>]]></content:encoded>
-            <enclosure url="https://storage.googleapis.com/rnd-atspotify/sites/2/2020/09/Cloud-native-computing-foundation-accepts-Backstage.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
